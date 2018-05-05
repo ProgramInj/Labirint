@@ -1,0 +1,5 @@
+D:\6 семестр\Программная инженерия\Лабиринт\LabirintParno\bin\Debug\LabirintParno.exe.config
+D:\6 семестр\Программная инженерия\Лабиринт\LabirintParno\bin\Debug\LabirintParno.exe
+D:\6 семестр\Программная инженерия\Лабиринт\LabirintParno\bin\Debug\LabirintParno.pdb
+D:\6 семестр\Программная инженерия\Лабиринт\LabirintParno\obj\Debug\LabirintParno.exe
+D:\6 семестр\Программная инженерия\Лабиринт\LabirintParno\obj\Debug\LabirintParno.pdb

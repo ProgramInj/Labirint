@@ -1,0 +1,27 @@
+C:\учеба\C# MVC\TrashLabyrynth\Labyrinth_console\Labyrinth_console\bin\Debug\Labyrinth_console.exe.config
+C:\учеба\C# MVC\TrashLabyrynth\Labyrinth_console\Labyrinth_console\bin\Debug\Labyrinth_console.exe
+C:\учеба\C# MVC\TrashLabyrynth\Labyrinth_console\Labyrinth_console\bin\Debug\Labyrinth_console.pdb
+C:\учеба\C# MVC\TrashLabyrynth\Labyrinth_console\Labyrinth_console\obj\Debug\Labyrinth_console.csprojResolveAssemblyReference.cache
+C:\учеба\C# MVC\TrashLabyrynth\Labyrinth_console\Labyrinth_console\obj\Debug\Labyrinth_console.csproj.CoreCompileInputs.cache
+C:\учеба\C# MVC\TrashLabyrynth\Labyrinth_console\Labyrinth_console\obj\Debug\Labyrinth_console.exe
+C:\учеба\C# MVC\TrashLabyrynth\Labyrinth_console\Labyrinth_console\obj\Debug\Labyrinth_console.pdb
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\bin\Debug\Labyrinth_console.exe.config
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\obj\Debug\Labyrinth_console.exe
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\obj\Debug\Labyrinth_console.pdb
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\bin\Debug\Labyrinth_console.exe
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\bin\Debug\Labyrinth_console.pdb
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\bin\Debug\mscorlib.dll
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\bin\Debug\normidna.nlp
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\bin\Debug\normnfc.nlp
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\bin\Debug\normnfd.nlp
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\bin\Debug\normnfkc.nlp
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\bin\Debug\normnfkd.nlp
+C:\Users\Admin\Desktop\Labyrinth_console\Labyrinth_console\Labyrinth_console\obj\Debug\Labyrinth_console.csprojResolveAssemblyReference.cache
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\obj\Debug\Labyrinth_console.csprojResolveAssemblyReference.cache
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\obj\Debug\Labyrinth_console.csproj.CoreCompileInputs.cache
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\obj\Debug\Labyrinth_console.exe
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\obj\Debug\Labyrinth_console.pdb
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\bin\Debug\Labyrinth_console.exe.config
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\bin\Debug\Labyrinth_console.exe
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\bin\Debug\Labyrinth_console.pdb

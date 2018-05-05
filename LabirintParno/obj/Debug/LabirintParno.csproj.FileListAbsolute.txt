@@ -1,0 +1,26 @@
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\bin\Debug\Labyrinth_console.exe.config
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\bin\Debug\Labyrinth_console.exe
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\bin\Debug\Labyrinth_console.pdb
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\obj\Debug\LabirintParno.csprojResolveAssemblyReference.cache
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\obj\Debug\LabirintParno.csproj.CoreCompileInputs.cache
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\obj\Debug\Labyrinth_console.exe
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\Labyrinth_console\obj\Debug\Labyrinth_console.pdb
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\LabirintParno\obj\Debug\LabirintParno.csprojResolveAssemblyReference.cache
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\LabirintParno\obj\Debug\LabirintParno.csproj.CoreCompileInputs.cache
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\LabirintParno\bin\Debug\LabirintParno.pdb
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\LabirintParno\obj\Debug\LabirintParno.pdb
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\LabirintParno\bin\Debug\LabirintParno.exe.config
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\LabirintParno\bin\Debug\LabirintParno.exe
+C:\Users\alpes\OneDrive\Рабочий стол\Новая папка\LabirintParno\obj\Debug\LabirintParno.exe
+C:\Users\1\Desktop\Новая папка\LabirintParno\bin\Debug\LabirintParno.exe.config
+C:\Users\1\Desktop\Новая папка\LabirintParno\obj\Debug\LabirintParno.exe
+C:\Users\1\Desktop\Новая папка\LabirintParno\obj\Debug\LabirintParno.pdb
+C:\Users\1\Desktop\Новая папка\LabirintParno\bin\Debug\LabirintParno.exe
+C:\Users\1\Desktop\Новая папка\LabirintParno\bin\Debug\LabirintParno.pdb
+C:\Users\1\Desktop\Новая папка\LabirintParno\obj\Debug\LabirintParno.csprojResolveAssemblyReference.cache
+D:\6 семестр\Программная инженерия\Лабиринт\LabirintParno\bin\Debug\LabirintParno.exe.config
+D:\6 семестр\Программная инженерия\Лабиринт\LabirintParno\obj\Debug\LabirintParno.exe
+D:\6 семестр\Программная инженерия\Лабиринт\LabirintParno\obj\Debug\LabirintParno.pdb
+D:\6 семестр\Программная инженерия\Лабиринт\LabirintParno\bin\Debug\LabirintParno.exe
+D:\6 семестр\Программная инженерия\Лабиринт\LabirintParno\bin\Debug\LabirintParno.pdb
+D:\6 семестр\Программная инженерия\Лабиринт\LabirintParno\obj\Debug\LabirintParno.csprojResolveAssemblyReference.cache
