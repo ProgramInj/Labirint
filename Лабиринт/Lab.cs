@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Лабиринт
 {
-    class M1
+    class Lab
     {
         public Cell[,] arr;
         public int size = 0;
 
 
-        public M1(int count_cell)
+        public Lab(int count_cell)
         {
             this.size = count_cell * 2 + 1;
             arr = new Cell[count_cell * 2 + 1, count_cell * 2 + 1];
